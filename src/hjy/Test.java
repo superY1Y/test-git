@@ -5,5 +5,6 @@ public class Test {
         System.out.println("nihao");
         System.out.println("wassup");
         System.out.println("iwanttotalkwithyou");
+        System.out.println("What id wrong with you");
     }
 }
